@@ -1,0 +1,43 @@
+Name;Type;Model;Manufacturer;Serial
+Printer-ARTY;Printer;HP LaserJet;Samsung;567DFG45DFG
+Printer-QUER;Printer;Canon PIXMA;Samsung;345UKB78DGH
+Printer-ZYX;Printer;Epson EcoTank;LG;678JKL90RTY
+Printer-ABC;Printer;Brother HL;LG;890OPQ12WER
+Printer-123;Printer;Xerox WorkCentre;Sony;901RST34UVW
+Printer-456;Printer;Kyocera Ecosys;Sony;234FGH56TUV
+Printer-789;Printer;Lexmark MS;Toshiba;567JKL78IOP
+Printer-XYZ;Printer;Dell Color Laser;Toshiba;890WER12FGH
+Printer-POI;Printer;Samsung ProXpress;Apple;123FGH45TYU
+Printer-UJM;Printer;Ricoh Aficio;Apple;456OPQ78WER
+Printer-JKL;Printer;Oki C;Google;789TUV90ERT
+Printer-ERT;Printer;Panasonic KX;Google;012IKL34DFG
+Printer-QWE;Printer;Konica Minolta Bizhub;Microsoft;345ERT56DFG
+Printer-UIO;Printer;Sharp MX;Microsoft;678DFG90ERT
+Printer-ERTY;Printer;Zebra ZD;Dell;901FGH23WES
+Printer-HJKL;Printer;Fujitsu fi;Dell;234JKL56ERT
+Printer-FGH;Printer;Citizen CL;HP;567ERT78DFG
+Printer-DFG;Printer;Toshiba B;HP;890RTY12JKL
+Printer-WER;Printer;Sony UP;Lenovo;123YUI45ERT
+Printer-RTY;Printer;LG Pocket;Lenovo;456JKL78DFG
+Printer-DFG;Printer;Acer Up;Acer;789KLO90WER
+Printer-WER;Printer;Asus X;Acer;012JKL34DFG
+Printer-QWE;Printer;Microsoft L;Asus;345UIO56ERT
+Printer-UIO;Printer;Google C;Asus;678YUI90JKL
+Printer-ERT;Printer;Apple A;MSI;901JKL23DFG
+Printer-HJK;Printer;HP LaserJet;MSI;234ERT56UIO
+Printer-FGH;Printer;Canon PIXMA;Samsung;567FGH78WER
+Printer-DFG;Printer;Epson EcoTank;Samsung;890JKL12ERT
+Printer-WER;Printer;Brother HL;LG;123YUI45DFG
+Printer-RTY;Printer;Xerox WorkCentre;LG;456JKL78WER
+Printer-DFG;Printer;Kyocera Ecosys;Sony;789ERT90UIO
+Printer-WER;Printer;Lexmark MS;Sony;012FGH34JKL
+Printer-QWE;Printer;Dell Color Laser;Toshiba;345DFG56WER
+Printer-UIO;Printer;Samsung ProXpress;Toshiba;678JKL90ERT
+Printer-ERT;Printer;Ricoh Aficio;Apple;901ERT23DFG
+Printer-HJK;Printer;Panasonic KX;Apple;234JKL56WER
+Printer-FGH;Printer;Konica Minolta Bizhub;Google;567YUI78ERT
+Printer-DFG;Printer;Sharp MX;Google;890ERT12DFG
+Printer-WER;Printer;Zebra ZD;Microsoft;123FGH45UIO
+Printer-RTY;Printer;Fujitsu fi;Microsoft;456JKL78ERT
+Printer-DFG;Printer;Citizen CL;Dell;789DFG90JKL
+Printer-WER;Printer;Toshiba B;Dell;012JKL34ERT

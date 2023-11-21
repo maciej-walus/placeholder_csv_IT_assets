@@ -1,0 +1,49 @@
+Name;Type;Model;Manufacturer;Serial
+Desktop-ARTY;Desktop;Dell Inspiron;Samsung;567DFG45DFG
+Laptop-QUER;Laptop;Dell XPS;Samsung;345UKB78DGH
+Desktop-ZYX;Desktop;HP Pavilion;LG;678JKL90RTY
+Laptop-ABC;Laptop;HP Spectre;LG;890OPQ12WER
+Desktop-123;Desktop;Lenovo ThinkCentre;Sony;901RST34UVW
+Laptop-456;Laptop;Lenovo Yoga;Sony;234FGH56TUV
+Desktop-789;Desktop;Acer Aspire;Toshiba;567JKL78IOP
+Laptop-XYZ;Laptop;Acer Swift;Toshiba;890WER12FGH
+Desktop-POI;Desktop;Asus ROG;Apple;123FGH45TYU
+Laptop-UJM;Laptop;Asus ZenBook;Apple;456OPQ78WER
+Desktop-JKL;Desktop;MSI Trident;Google;789TUV90ERT
+Laptop-ERT;Laptop;MSI GS Series;Google;012IKL34DFG
+Desktop-QWE;Desktop;Microsoft Surface;Microsoft;345ERT56DFG
+Laptop-UIO;Laptop;Microsoft Surface Book;Microsoft;678DFG90ERT
+Desktop-ERTY;Desktop;Samsung Galaxy Book;Dell;901FGH23WES
+Laptop-HJKL;Laptop;Samsung Notebook;Dell;234JKL56ERT
+Desktop-FGH;Desktop;LG Ultra;HP;567ERT78DFG
+Laptop-DFG;Laptop;LG Gram;HP;890RTY12JKL
+Desktop-WER;Desktop;Sony Vaio;Lenovo;123YUI45ERT
+Laptop-RTY;Laptop;Sony Xperia;Lenovo;456JKL78DFG
+Desktop-DFG;Desktop;Toshiba Satellite;Acer;789KLO90WER
+Laptop-WER;Laptop;Toshiba Portégé;Acer;012JKL34DFG
+Desktop-QWE;Desktop;Apple iMac;Asus;345UIO56ERT
+Laptop-UIO;Laptop;Apple MacBook;Asus;678YUI90JKL
+Desktop-ERT;Desktop;Google Pixel Slate;MSI;901JKL23DFG
+Laptop-HJK;Laptop;Google Pixelbook;MSI;234ERT56UIO
+Desktop-FGH;Desktop;Microsoft Surface Studio;Samsung;567FGH78WER
+Laptop-DFG;Laptop;Microsoft Surface Laptop;Samsung;890JKL12ERT
+Desktop-WER;Desktop;Dell Precision;LG;123YUI45DFG
+Laptop-RTY;Laptop;Dell Latitude;LG;456JKL78WER
+Desktop-DFG;Desktop;HP ENVY;Sony;789ERT90UIO
+Laptop-WER;Laptop;HP EliteBook;Sony;012FGH34JKL
+Desktop-QWE;Desktop;Lenovo Legion;Toshiba;345DFG56WER
+Laptop-UIO;Laptop;Lenovo Ideapad;Toshiba;678JKL90ERT
+Desktop-ERT;Desktop;Acer Nitro;Apple;901ERT23DFG
+Laptop-HJK;Laptop;Acer Chromebook;Apple;234JKL56WER
+Desktop-FGH;Desktop;Asus Vivo;Google;567YUI78ERT
+Laptop-DFG;Laptop;Asus TUF;Google;890ERT12DFG
+Desktop-WER;Desktop;MSI Prestige;Microsoft;123FGH45UIO
+Laptop-RTY;Laptop;MSI Modern;Microsoft;456JKL78ERT
+Desktop-DFG;Desktop;Samsung Notebook Odyssey;Dell;789DFG90JKL
+Laptop-WER;Laptop;Samsung Galaxy Book Flex;Dell;012JKL34ERT
+Desktop-QWE;Desktop;LG Gram;HP;345UIO56DFG
+Laptop-UIO;Laptop;LG Ultra PC;HP;678JKL90WER
+Desktop-ERT;Desktop;Sony Vaio;Lenovo;901FGH23ERT
+Laptop-HJK;Laptop;Sony Xperia;Lenovo;234JKL56DFG
+Desktop-FGH;Desktop;Toshiba Satellite;Acer;567JKL78WER
+Laptop-DFG;Laptop;Toshiba Portégé;Acer;890FGH12UIO
